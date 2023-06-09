@@ -4,5 +4,5 @@ whistling
 northern_shoveler
 allier_white
 tufted
-gadwall 
+gadwall
 female_goosander

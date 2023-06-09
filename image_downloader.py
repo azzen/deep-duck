@@ -1,6 +1,6 @@
 from bing_image_downloader import downloader
 
-QUERIES = ["Male Mallard Duck", "Male Mandarin duck", "Male Whistling duck", "Male Nothern shoveler", "Male allier white duck", "Male tufted duck", "Male gadwall", "Female goosander"]
+QUERIES = ["Male Mallard Duck", "Male Mandarin duck", "Male Whistling duck", "Male Northern shoveler", "Male allier white duck", "Male tufted duck", "Male gadwall", "Female goosander"]
 OUTPUT_DIR = 'dataset_images'
 NB_IMAGES = 50
 
